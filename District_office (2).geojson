@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[29.41299869200003,-2.0522178419999477]},"properties":{"objectid":7,"name":"KARONGI District Office","cod_distri":"0301","type":"District_Office","source":"RMLUA","capture":"N/A","globalid":"{76EAE337-87D2-41B9-BF29-E940B5971448}","created_us":null,"created_da":null,"last_edite":null,"last_edi_1":null}}
+]}
